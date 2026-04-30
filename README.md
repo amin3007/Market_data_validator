@@ -119,13 +119,13 @@ http://localhost:3001
 Open the validation report for valid sample data:
 
 ```text
-http://localhost:3001/api/report?file=good
+http://localhost:3000/api/report?file=good
 ```
 
 Open the validation report for invalid sample data:
 
 ```text
-http://localhost:3001/api/report?file=bad
+http://localhost:3000/api/report?file=bad
 ```
 
 ## Run the Angular Dashboard
