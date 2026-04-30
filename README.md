@@ -1,4 +1,4 @@
-# market-data-validator
+# Market-data-validator
 
 A small full-stack validation project for reading, validating, testing, and displaying JSON market data.
 
