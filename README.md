@@ -113,7 +113,7 @@ npm run api
 The API runs on:
 
 ```text
-http://localhost:3001
+http://localhost:3000
 ```
 
 Open the validation report for valid sample data:
@@ -272,7 +272,7 @@ The exact output may differ depending on the selected input file and the current
 Example response from:
 
 ```text
-http://localhost:3001/api/report?file=good
+http://localhost:3000/api/report?file=good
 ```
 
 ```json
