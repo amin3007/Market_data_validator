@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+angular-report-viewer/node_modules/
+
+# Angular build output
+angular-report-viewer/dist/
+angular-report-viewer/.angular/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

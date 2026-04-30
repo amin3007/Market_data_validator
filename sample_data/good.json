@@ -1,0 +1,4 @@
+[
+    { "symbol": "DB1", "timestamp": "2026-04-22T09:30:00Z", "price": 215.4, "volume": 100 },
+    { "symbol": "SAP", "timestamp": "2026-04-22T09:31:00Z", "price": 176.8, "volume": 80 }
+]

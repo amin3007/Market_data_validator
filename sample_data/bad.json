@@ -1,0 +1,5 @@
+[
+  { "symbol": "DB1", "timestamp": "2026-04-22T09:30:00Z", "price": -5, "volume": 100 },
+  { "symbol": "", "timestamp": "2026-04-22T09:31:00Z", "price": 176.8 },
+  { "timestamp": "2026-04-22T09:32:00Z", "price": 150.2, "volume": 30 }
+]
